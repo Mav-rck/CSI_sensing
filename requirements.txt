@@ -1,5 +1,4 @@
-fastapi==0.104.1
-uvicorn==0.24.0.post1
-pydantic==2.4.2
-numpy==1.26.2
-influxdb-client==1.38.0
+fastapi
+uvicorn
+prometheus-client
+numpy
